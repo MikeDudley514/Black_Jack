@@ -13,7 +13,7 @@ A simple browser-based Blackjack game built with HTML, CSS, and JavaScript. Play
 ## 📁 Project Structure
 
 ```
-📦blackjack-game
+📦blackjack
  ┣ 📄index.html        # Main HTML file
  ┣ 📄blackjack.js      # Game logic in JavaScript
  ┣ 📄blackjack.css     # Styling for layout and buttons
@@ -23,7 +23,7 @@ A simple browser-based Blackjack game built with HTML, CSS, and JavaScript. Play
 ## 🛠 Features
 
 - Full deck with random shuffle
-- Dealer AI logic (hits until reaching 17 or more)
+- Dealer logic (hits until reaching 17 or more)
 - Dynamic display of card images
 - Win/lose/tie conditions handled
 - Ace value adjustment logic to prevent busting
@@ -31,7 +31,6 @@ A simple browser-based Blackjack game built with HTML, CSS, and JavaScript. Play
 ## ✅ Requirements
 
 - A modern web browser
-- A folder named `cards/` with card image files (e.g., `A-H.png`, `10-S.png`, `BACK.png`)
 
 ## 🚀 How to Run
 
